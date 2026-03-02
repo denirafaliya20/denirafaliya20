@@ -74,27 +74,6 @@ Cloud Computing • Big Data Analytics
 
 ---
 
-# 📊 GitHub Analytics  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=denirafaliya20&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=denirafaliya20&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denirafaliya20&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation  
-
-<p align="center">
-  <img src="https://github.com/denirafaliya20/denirafaliya20/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 🌍 Connect With Me  
 
 <p align="center">
