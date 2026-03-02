@@ -89,11 +89,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Denisha%20Rafaliya-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:denirafaliya@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://denisharafaliya.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=firefox"/>
 </a>
 </p>
