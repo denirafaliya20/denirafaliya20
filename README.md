@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Engineer | B.E. Computer Engineering Student | Intelligent Systems Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=denirafaliya20&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
