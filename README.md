@@ -85,7 +85,7 @@
 # 🌍 Connect With Me  
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/deni-rafaliya-9323773a4" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Denisha%20Rafaliya-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
